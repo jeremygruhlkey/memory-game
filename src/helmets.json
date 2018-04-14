@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Broncos",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Broncos.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Niners",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-49ers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Chiefs",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Chiefs.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Eagles ",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Eagles.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Cowboys",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Cowboys.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Giants",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Giants.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Packers",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Packers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Raiders",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Raiders.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Redskins",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Redskins.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Steelers",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Steelers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Vikings",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Rams.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Patriots",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Patriots.jpg",
+    "clicked": false
+  }
+]
