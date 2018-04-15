@@ -3,4 +3,10 @@ header {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+    background-color: blue;
+    color: white;
+}
+
+.scores {
+    color: rgb(204, 19, 19);
 }
