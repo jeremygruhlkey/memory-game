@@ -2,73 +2,161 @@
   {
     "id": 1,
     "name": "Broncos",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Broncos.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Broncos.jpg"
   },
   {
     "id": 2,
     "name": "Niners",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-49ers.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-49ers.jpg"
   },
   {
     "id": 3,
     "name": "Chiefs",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Chiefs.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Chiefs.jpg"
   },
   {
     "id": 4,
     "name": "Eagles ",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Eagles.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Eagles.jpg"
   },
   {
     "id": 5,
     "name": "Cowboys",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Cowboys.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Cowboys.jpg"
   },
   {
     "id": 6,
     "name": "Giants",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Giants.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Giants.jpg"
   },
   {
     "id": 7,
     "name": "Packers",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Packers.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Packers.jpg"
   },
   {
     "id": 8,
     "name": "Raiders",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Raiders.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Raiders.jpg"
   },
   {
     "id": 9,
     "name": "Redskins",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Redskins.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Redskins.jpg"
   },
   {
     "id": 10,
     "name": "Steelers",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Steelers.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Steelers.jpg"
   },
   {
     "id": 11,
     "name": "Vikings",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Rams.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Rams.jpg"
   },
   {
     "id": 12,
     "name": "Patriots",
-    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Patriots.jpg",
-    "clicked": false
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Patriots.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bears",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Bears.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Bengals",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Bengals.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Bills",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Bills.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Browns",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Browns.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Bucs",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Buccaneers.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Cardinals",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Cardinals.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Chargers",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Chargers.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Colts",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Colts.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Dolphins",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Dolphins.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Falcons",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Falcons.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Jaguars",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Jaguars.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Jets",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Jets.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Lions",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Lions.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Panthers",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Panthers.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Ravens",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Ravens.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Saints",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Saints.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Seahawks",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Seahawks.jpg"
+  },
+  {
+    "id":30,
+    "name": "Texans",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Texans.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Titans",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Titans.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Vikings",
+    "image": "https://gogts.net/wp-content/uploads/2017/01/Riddell-NFL-Blaze-Alternate-Helmet-Collection-Vikings.jpg"
   }
 ]

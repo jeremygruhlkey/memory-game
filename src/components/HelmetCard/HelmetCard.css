@@ -1,6 +1,12 @@
 .card {
-    width: 200px;
+    width: 170px;
+    border-style: none;
+}
+.card:hover {
+    cursor: pointer;
 }
 img {
-    width: 100%
+    width: 100%;
+    
   }
+

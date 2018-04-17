@@ -1,13 +1,12 @@
-/* body {
-  background-color: white;
-} */
-/* #root {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  background-color: white
-} */
-
 #root {
   background-color: white;
+}
+
+.directions {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 4px;
+  color: rgb(230, 61, 61);
+  font-size: 24px;
+  opacity: .8;
 }
